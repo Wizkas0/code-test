@@ -1,5 +1,3 @@
-Here’s a complete Python coding test package for the suspicious batch flagging function.
-
 **Instructions:**  
 Implement a function `flag_suspicious_batches(input_queue, output_queue)` that processeses transactions and produces batched reports.
 
